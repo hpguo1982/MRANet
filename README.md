@@ -1,6 +1,6 @@
 # MRANet: Multi-dimensional Residual Attentional Network for Precise Polyp Segmentation
 
-MRANetis an encoder decoder network which can be used for efficient biomedical image segmentation for both in-distribution and out-of-distribution datasets.
+MRANet is an encoder decoder network which can be used for efficient biomedical image segmentation for both in-distribution and out-of-distribution datasets.
 
 ## In-distribution and Out-of-distributuion dataset
 
