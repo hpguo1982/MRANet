@@ -10,4 +10,4 @@ download the datasets (1) [kvasir-seg](https://pan.baidu.com/s/1gz9vq84TUTveCXxo
 
 ## trained model
 
-We provide pth of our MRANet trained on kvasir-seg: [MRANet.pth](https://pan.baidu.com/s/1ynLgefxfBpH_fGo5LcC3kA?pwd=rkvw)
+We provide pth of our MRANet trained on kvasir-seg: [MRANet.pth](https://pan.baidu.com/s/10mg7MFqvEIaqyb4r5uW5wg?pwd=njqz) (Code: njqz)
